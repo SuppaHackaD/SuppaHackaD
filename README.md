@@ -11,10 +11,10 @@
 ---
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-  <a href="https://github.com/DevisBorg">
+  <a href="https://github.com/SuppaHackaD">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SuppaHackaD&show_icons=true&theme=tokyonight"/>
   </a>
-  <a href="https://github.com/DevisBorg">
+  <a href="https://github.com/SuppaHackaD">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuppaHackaD&layout=compact&langs_count=6&theme=tokyonight"/>
   </a>
 </div>
